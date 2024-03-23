@@ -1,7 +1,7 @@
 ---
 type : "tags"
 layout : "about"
-title: "About me"
+title: "About me_JinDiamond精鑽"
 ---
 
 I am Bino Kochumol Varghese.
